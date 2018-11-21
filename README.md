@@ -1,7 +1,7 @@
 # Důležitý odkazy:
-Github: **https://github.com/JanSkvaril/ev3_citroen**
-Editor: https://lab.open-roberta.org/
-Můj mail: skvaril.jan@outlook.com
+*Github: **https://github.com/JanSkvaril/ev3_citroen**
+*Editor: https://lab.open-roberta.org/
+*Můj mail: skvaril.jan@outlook.com
 
 # Editor: 
 https://lab.open-roberta.org/
